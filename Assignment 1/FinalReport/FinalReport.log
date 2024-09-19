@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.10)  18 SEP 2024 21:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.10)  19 SEP 2024 16:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -292,32 +292,91 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip62
 )
+(C:\Users\Cupri\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen164
+\lightrulewidth=\dimen165
+\cmidrulewidth=\dimen166
+\belowrulesep=\dimen167
+\belowbottomsep=\dimen168
+\aboverulesep=\dimen169
+\abovetopsep=\dimen170
+\cmidrulesep=\dimen171
+\cmidrulekern=\dimen172
+\defaultaddspace=\dimen173
+\@cmidla=\count290
+\@cmidlb=\count291
+\@aboverulesep=\dimen174
+\@belowrulesep=\dimen175
+\@thisruleclass=\count292
+\@lastruleclass=\count293
+\@thisrulewidth=\dimen176
+)
+(C:\Users\Cupri\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen177
+\ar@mcellbox=\box53
+\extrarowheight=\dimen178
+\NC@list=\toks24
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box54
+)
+(C:\Users\Cupri\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen179
+\TX@old@table=\dimen180
+\TX@old@col=\dimen181
+\TX@target=\dimen182
+\TX@delta=\dimen183
+\TX@cols=\count294
+\TX@ftn=\toks25
+)
+(C:\Users\Cupri\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count295
+\LTcapwidth=\dimen184
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count296
+\LT@rows=\count297
+\c@LT@tables=\count298
+\c@LT@chunks=\count299
+\LT@p@ftn=\toks26
+)
 (C:\Users\Cupri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count290
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count300
+\l__pdf_internal_box=\box60
 ) (FinalReport.aux)
 \openout1 = `FinalReport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -357,17 +416,17 @@ LaTeX Font Info:    ... okay on input line 14.
 (C:\Users\Cupri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count291
-\scratchdimen=\dimen164
-\scratchbox=\box54
-\nofMPsegments=\count292
-\nofMParguments=\count293
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count294
-\MPscratchDim=\dimen165
-\MPnumerator=\count295
-\makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count301
+\scratchdimen=\dimen185
+\scratchbox=\box61
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen186
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks28
 )
 (C:\Users\Cupri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -379,7 +438,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 14.
+Package hyperref Info: Link coloring OFF on input line 19.
  (FinalReport.out) (FinalReport.out)
 \@outlinefile=\write3
 \openout3 = `FinalReport.out'.
@@ -392,60 +451,118 @@ Package hyperref Info: Link coloring OFF on input line 14.
 \openout4 = `FinalReport.toc'.
 
  [2]
-<Media/MissonPlan.png, id=113, 326.4195pt x 95.1555pt>
+<Media/MissonPlan.png, id=128, 326.4195pt x 95.1555pt>
 File: Media/MissonPlan.png Graphic file (type png)
 <use Media/MissonPlan.png>
-Package pdftex.def Info: Media/MissonPlan.png  used on input line 56.
+Package pdftex.def Info: Media/MissonPlan.png  used on input line 68.
 (pdftex.def)             Requested size: 325.215pt x 94.80676pt.
  [3 <./Media/MissonPlan.png>] [4] [5]
-<Media/MonoPusherFig.png, id=146, 469.755pt x 144.54pt>
+Overfull \hbox (6.18665pt too wide) in paragraph at lines 160--161
+[]|[]|  
+ []
+
+
+Overfull \hbox (45.48903pt too wide) in paragraph at lines 144--169
+ [][] 
+ []
+
+[6]
+<Media/MonoPusherFig.png, id=168, 469.755pt x 144.54pt>
 File: Media/MonoPusherFig.png Graphic file (type png)
 <use Media/MonoPusherFig.png>
-Package pdftex.def Info: Media/MonoPusherFig.png  used on input line 130.
+Package pdftex.def Info: Media/MonoPusherFig.png  used on input line 188.
 (pdftex.def)             Requested size: 469.75499pt x 144.53963pt.
 
 
-LaTeX Warning: Citation `' on page 6 undefined on input line 131.
+LaTeX Warning: Citation `' on page 7 undefined on input line 189.
 
 
-LaTeX Warning: Citation `' on page 6 undefined on input line 131.
+LaTeX Warning: Citation `' on page 7 undefined on input line 189.
 
 
-LaTeX Warning: Reference `' on page 6 undefined on input line 137.
+LaTeX Warning: Reference `' on page 7 undefined on input line 195.
 
 
-LaTeX Warning: Citation `' on page 6 undefined on input line 143.
+LaTeX Warning: Citation `' on page 7 undefined on input line 201.
 
 
-LaTeX Warning: Citation `' on page 6 undefined on input line 144.
+LaTeX Warning: Citation `' on page 7 undefined on input line 202.
 
-[6 <./Media/MonoPusherFig.png>]
-<Media/TwinPusherFig.png, id=153, 469.755pt x 144.54pt>
+[7 <./Media/MonoPusherFig.png>]
+<Media/TwinPusherFig.png, id=176, 469.755pt x 144.54pt>
 File: Media/TwinPusherFig.png Graphic file (type png)
 <use Media/TwinPusherFig.png>
-Package pdftex.def Info: Media/TwinPusherFig.png  used on input line 154.
+Package pdftex.def Info: Media/TwinPusherFig.png  used on input line 212.
 (pdftex.def)             Requested size: 469.75499pt x 144.53963pt.
-
-
-LaTeX Warning: Citation `' on page 7 undefined on input line 155.
-
-
-LaTeX Warning: Citation `' on page 7 undefined on input line 155.
-
-[7 <./Media/TwinPusherFig.png>]
-<Media/TwinPullerFig.png, id=161, 469.755pt x 144.54pt>
+ [8 <./Media/TwinPusherFig.png>]
+<Media/TwinPullerFig.png, id=183, 469.755pt x 144.54pt>
 File: Media/TwinPullerFig.png Graphic file (type png)
 <use Media/TwinPullerFig.png>
-Package pdftex.def Info: Media/TwinPullerFig.png  used on input line 178.
+Package pdftex.def Info: Media/TwinPullerFig.png  used on input line 236.
 (pdftex.def)             Requested size: 469.75499pt x 144.53963pt.
 
 
-LaTeX Warning: Citation `' on page 8 undefined on input line 179.
+LaTeX Warning: Citation `' on page 9 undefined on input line 237.
 
 
-LaTeX Warning: Citation `' on page 8 undefined on input line 179.
+LaTeX Warning: Citation `' on page 9 undefined on input line 237.
 
-[8 <./Media/TwinPullerFig.png>] [9] [10] [11] (FinalReport.aux)
+[9 <./Media/TwinPullerFig.png>]
+<Media/Drone.png, id=190, 1686.3pt x 903.375pt>
+File: Media/Drone.png Graphic file (type png)
+<use Media/Drone.png>
+Package pdftex.def Info: Media/Drone.png  used on input line 266.
+(pdftex.def)             Requested size: 433.62pt x 232.29428pt.
+<Media/FrontCrossSection.png, id=191, 433.62pt x 332.6829pt>
+File: Media/FrontCrossSection.png Graphic file (type png)
+<use Media/FrontCrossSection.png>
+Package pdftex.def Info: Media/FrontCrossSection.png  used on input line 274.
+(pdftex.def)             Requested size: 433.62pt x 332.69731pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `' on page 10 undefined on input line 279.
+
+[10 <./Media/Drone.png>] [11 <./Media/FrontCrossSection.png>]
+<Media/SideCrossSection.png, id=205, 433.62pt x 86.724pt>
+File: Media/SideCrossSection.png Graphic file (type png)
+<use Media/SideCrossSection.png>
+Package pdftex.def Info: Media/SideCrossSection.png  used on input line 306.
+(pdftex.def)             Requested size: 433.62pt x 86.72774pt.
+<Media/UltraEnduranceConfig.png, id=206, 433.62pt x 108.405pt>
+File: Media/UltraEnduranceConfig.png Graphic file (type png)
+<use Media/UltraEnduranceConfig.png>
+Package pdftex.def Info: Media/UltraEnduranceConfig.png  used on input line 317
+.
+(pdftex.def)             Requested size: 433.62pt x 108.40968pt.
+ [12 <./Media/SideCrossSection.png> <./Media/UltraEnduranceConfig.png>]
+<Media/HighPayloadConfig.png, id=215, 433.62pt x 108.405pt>
+File: Media/HighPayloadConfig.png Graphic file (type png)
+<use Media/HighPayloadConfig.png>
+Package pdftex.def Info: Media/HighPayloadConfig.png  used on input line 327.
+(pdftex.def)             Requested size: 433.62pt x 108.40968pt.
+<Media/HighDensityPayloadConfig.png, id=216, 433.62pt x 108.405pt>
+File: Media/HighDensityPayloadConfig.png Graphic file (type png)
+<use Media/HighDensityPayloadConfig.png>
+Package pdftex.def Info: Media/HighDensityPayloadConfig.png  used on input line
+ 335.
+(pdftex.def)             Requested size: 433.62pt x 108.40968pt.
+ [13 <./Media/HighPayloadConfig.png> <./Media/HighDensityPayloadConfig.png>]
+<Media/Table.png, id=226, 459.96844pt x 1049.04422pt>
+File: Media/Table.png Graphic file (type png)
+<use Media/Table.png>
+Package pdftex.def Info: Media/Table.png  used on input line 352.
+(pdftex.def)             Requested size: 459.96732pt x 1049.04167pt.
+
+
+LaTeX Warning: Float too large for page by 425.44498pt on input line 354.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14] [15 <./Media/Table.png>] (FinalReport.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
@@ -454,26 +571,36 @@ L3 programming layer <2024-04-11>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `FinalReport.out' has not changed.
-(rerunfilecheck)             Checksum: F2A2B5B5579DE59F39AD58E16AEF7081;3446.
+
+Package rerunfilecheck Warning: File `FinalReport.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `FinalReport.out':
+(rerunfilecheck)             Before: F2EE560A6B2D879768EF7BE74540994E;4177
+(rerunfilecheck)             After:  EA445AC1D194A0D1D722CC0AB94F3C49;3945.
  ) 
 Here is how much of TeX's memory you used:
- 9799 strings out of 474370
- 152757 string characters out of 5740535
- 1935754 words of memory out of 5000000
- 32046 multiletter control sequences out of 15000+600000
+ 10159 strings out of 474370
+ 159087 string characters out of 5740535
+ 1936754 words of memory out of 5000000
+ 32374 multiletter control sequences out of 15000+600000
  564868 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,792b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Cupri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk><C:/Users/Cupri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/Cupri/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Users/Cupri/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb><C:/Users/Cupri/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on FinalReport.pdf (11 pages, 1442884 bytes).
+ 75i,16n,79p,859b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{appendix.A} has been referenced but does not exist,
+ replaced by a fixed one
+
+ <C:\Users\Cupri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm12
+00.pk><C:/Users/Cupri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Users/Cupri/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Users/Cupri/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr17.pfb><C:/Users/Cupri/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on FinalReport.pdf (15 pages, 3235336 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 284 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 232 words of extra memory for PDF output out of 10000 (max. 10000000)
 
