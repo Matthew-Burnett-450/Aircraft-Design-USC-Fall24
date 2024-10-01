@@ -1,21 +1,24 @@
-\contentsline {section}{\numberline {1}Mission Definition and Analysis of Requirements}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}The Mission}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Requirement Analysis}{4}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}Payload Analysis}{4}{subsubsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.2.2}Propulsion Analysis}{5}{subsubsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.3}Certification Analysis}{5}{subsubsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.4}Range, Takeoff, and Landing Distance}{5}{subsubsection.1.2.4}%
-\contentsline {subsubsection}{\numberline {1.2.5}Additional Requirements}{5}{subsubsection.1.2.5}%
-\contentsline {subsection}{\numberline {1.3}Driving Requirements}{5}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Reference Aircraft Data Collection}{5}{section.2}%
-\contentsline {section}{\numberline {3}Concept Generation and Selection}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Concept Generation}{6}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Mono-pusher with Inverted V-tail}{7}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Twin Pusher with V-tail}{8}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}Dual Puller with Cross-tail}{9}{subsubsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.2}Concept Selection}{10}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Preliminary Fuselage Design}{10}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Front Cross-Section Layout}{10}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Side Cross-Section Layout}{11}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}Design Flexibility}{12}{subsubsection.3.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.5}Landing Gear}{13}{subsubsection.3.2.5}%
+\contentsline {section}{\numberline {1}Mission Definition and Analysis of Requirements}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}The Mission}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Requirement Analysis}{5}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Payload Analysis}{5}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Propulsion Analysis}{6}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Certification Analysis}{6}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Range, Takeoff, and Landing Distance}{6}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}Additional Requirements}{6}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.3}Driving Requirements}{6}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Reference Aircraft Data Collection}{6}{section.2}%
+\contentsline {section}{\numberline {3}Concept Generation and Selection}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Concept Generation}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Mono-pusher with Inverted V-tail}{8}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Twin Pusher with V-tail}{9}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Dual Puller with Cross-tail}{10}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Concept Selection}{11}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Preliminary Fuselage Design}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Front Cross-Section Layout}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Side Cross-Section Layout}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Design Flexibility}{13}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Landing Gear}{14}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Avionics Bay}{15}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Appendix A: Aircraft Reference Table}{18}{section.5}%
+\contentsline {section}{\numberline {6}Appendix B: LAHE UAV Technical Drawings}{20}{section.6}%
