@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {section}{\numberline {2}Determining the Takeoff Weight}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Payload}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Batteries}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Operational Empty Weight}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Determining the W/P-W/S Diagram}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Stall Sizing}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Landing Sizing}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Take-Off Sizing}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Climb Gradient Requirements}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Climb Performance Requirement}{9}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}$W/P$ – $W/S$ diagram}{10}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Drag Polar}{11}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Propulsion Design}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Engine Selection Criteria}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Engine Selection from Market}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Engine Scaling}{13}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Range and Endurance}{13}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Range Calculation}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Endurance Calculation}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Power Required for Cruise}{15}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Minimum Speed Calculation}{15}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Proposed Improvements}{16}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}1. Higher Efficiency Power Electronics (ESC)}{16}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.2}2. Optimization of Motor Design (Core Materials and Windings)}{16}{subsubsection.5.5.2}%
+\contentsline {subsubsection}{\numberline {5.5.3}3. Improved Cooling and Thermal Management}{17}{subsubsection.5.5.3}%
